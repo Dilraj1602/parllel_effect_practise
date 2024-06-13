@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+/*     to use box model */
     box-sizing: border-box;
 }
 .wrapper{
